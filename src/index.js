@@ -1,0 +1,7 @@
+export { default as Character } from './Character';
+export { default as Bowman } from './Bowman';
+export { default as Swordsman } from './Swordsman';
+export { default as Magician } from './Magician';
+export { default as Daemon } from './Daemon';
+export { default as Undead } from './Undead';
+export { default as Zombie } from './Zombie';
